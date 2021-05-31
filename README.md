@@ -1,3 +1,6 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=oussamabadr_TopGear&metric=alert_status)](https://sonarcloud.io/dashboard?id=oussamabadr_TopGear) [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=oussamabadr_TopGear&metric=code_smells)](https://sonarcloud.io/dashboard?id=oussamabadr_TopGear) [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=oussamabadr_TopGear&metric=sqale_index)](https://sonarcloud.io/dashboard?id=oussamabadr_TopGear) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=oussamabadr_TopGear&metric=coverage)](https://sonarcloud.io/dashboard?id=oussamabadr_TopGear)
+
+
 Top Gear Refactoring Kata
 =========================
 
